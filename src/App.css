@@ -1,10 +1,15 @@
-.App{
-  padding: 20px;
+.App {
   display: flex;
-  font-family: "Rubik", sans-serif;
-  color: #78909C;
   align-items: center;
-  justify-content: center;  
+  justify-content: center;
   height: 100vh;
-  background: linear-gradient( 135deg, rgb(57, 210, 236), rgb(236, 61, 236) );
-} 
+  font-family: "Rubik", sans-serif;
+  color: #78909c;
+  background: linear-gradient(
+    135deg,
+    rgba(179, 229, 252, 1) 0%,
+    rgba(179, 229, 252, 1) 50%,
+    rgba(240, 98, 146, 1) 50%,
+    rgba(240, 98, 146, 1) 100%
+  );
+}
