@@ -16,7 +16,7 @@
 }
 
 .JokeList-title{
-    font-size: 4rem;
+    font-size: 3rem;
     margin: 2rem;
     color: white;
     font-weight: 300;
@@ -38,4 +38,8 @@
     align-self: center;
     width: 70%;
     overflow: scroll;
+}
+
+.JokeList-getmore{
+    margin-top: 20px;
 }
